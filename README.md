@@ -15,7 +15,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 This graph shows the highest success rate in May and the lowest failure rate in April. Success rates are lowest in December.
 
 ### Analysis of Outcomes Based on Goals
-![Outcome vs Goals](Images/GoalOutcome.png)
+![Outcome vs Goals](Images/GoalOutcomes.png)
 This graph shows the lower the goal, the more likely the kickstarter campaign was to succeed (with the proper backing).
 
 ## Results
